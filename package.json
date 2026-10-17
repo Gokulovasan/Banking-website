@@ -1,0 +1,17 @@
+{
+  "name": "custom-image-dino-game",
+  "version": "1.0.0",
+  "description": "A Dino T-Rex game with custom image sprite loader, written in vanilla JS/CSS/HTML.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "dino",
+    "canvas",
+    "game",
+    "http-server"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
